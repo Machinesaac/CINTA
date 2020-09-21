@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abb81d07-6ef9-43bf-9c1e-8520fc2ef25e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/begcd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bgcd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egcd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gcd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutiply.py" beforeDir="false" afterPath="$PROJECT_DIR$/mutiply.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,34 +179,50 @@
       <workItem from="1599554609674" duration="6942000" />
       <workItem from="1599883424036" duration="1844000" />
       <workItem from="1600611221534" duration="3404000" />
-      <workItem from="1600646374953" duration="10281000" />
+      <workItem from="1600646374953" duration="10900000" />
     </task>
+    <task id="LOCAL-00001" summary="up">
+      <created>1600680645932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600680645932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="up" />
+    <option name="LAST_COMMIT_MESSAGE" value="up" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1600685680141">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1500.960@0.0.1500.960" timestamp="1600685680141" />
     <state x="531" y="235" key="FileChooserDialogImpl" timestamp="1599554577927">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="531" y="235" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1599554577927" />
-    <state width="1458" height="283" key="GridCell.Tab.0.bottom" timestamp="1600680433460">
+    <state width="1458" height="283" key="GridCell.Tab.0.bottom" timestamp="1600685658934">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="283" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1600680433460" />
-    <state width="1458" height="283" key="GridCell.Tab.0.center" timestamp="1600680433460">
+    <state width="1458" height="283" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1600685658934" />
+    <state width="1458" height="283" key="GridCell.Tab.0.center" timestamp="1600685658934">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="283" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1600680433460" />
-    <state width="1458" height="283" key="GridCell.Tab.0.left" timestamp="1600680433460">
+    <state width="1458" height="283" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1600685658934" />
+    <state width="1458" height="283" key="GridCell.Tab.0.left" timestamp="1600685658934">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="283" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1600680433460" />
-    <state width="1458" height="283" key="GridCell.Tab.0.right" timestamp="1600680433460">
+    <state width="1458" height="283" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1600685658934" />
+    <state width="1458" height="283" key="GridCell.Tab.0.right" timestamp="1600685658934">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="283" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1600680433460" />
+    <state width="1458" height="283" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1600685658934" />
     <state x="493" y="122" key="refactoring.ChangeSignatureDialog" timestamp="1600650492417">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
