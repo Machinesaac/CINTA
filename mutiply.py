@@ -4,7 +4,10 @@ def multiply(a, b):
     while b != 0:
         bit = b & 1
         if bit:
-            my_sum += a << i
-        i += 1
+            a <<= 1
+            my_sum += a
         b >>= 1
     return my_sum
+
+
+print(multiply(5, 6))
