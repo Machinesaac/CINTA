@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abb81d07-6ef9-43bf-9c1e-8520fc2ef25e" name="Default Changelist" comment="up" />
+    <list default="true" id="abb81d07-6ef9-43bf-9c1e-8520fc2ef25e" name="Default Changelist" comment="up">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/begcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/begcd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bgcd.py" beforeDir="false" afterPath="$PROJECT_DIR$/bgcd.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +181,7 @@
       <workItem from="1599554609674" duration="6942000" />
       <workItem from="1599883424036" duration="1844000" />
       <workItem from="1600611221534" duration="3404000" />
-      <workItem from="1600646374953" duration="11191000" />
+      <workItem from="1600646374953" duration="12193000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1600680645932</created>
@@ -205,22 +209,22 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="531" y="235" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1599554577927" />
-    <state width="1458" height="283" key="GridCell.Tab.0.bottom" timestamp="1600685658934">
+    <state width="1458" height="283" key="GridCell.Tab.0.bottom" timestamp="1600686446573">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="283" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1600685658934" />
-    <state width="1458" height="283" key="GridCell.Tab.0.center" timestamp="1600685658934">
+    <state width="1458" height="283" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1600686446573" />
+    <state width="1458" height="283" key="GridCell.Tab.0.center" timestamp="1600686446573">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="283" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1600685658934" />
-    <state width="1458" height="283" key="GridCell.Tab.0.left" timestamp="1600685658934">
+    <state width="1458" height="283" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1600686446573" />
+    <state width="1458" height="283" key="GridCell.Tab.0.left" timestamp="1600686446573">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="283" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1600685658934" />
-    <state width="1458" height="283" key="GridCell.Tab.0.right" timestamp="1600685658934">
+    <state width="1458" height="283" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1600686446573" />
+    <state width="1458" height="283" key="GridCell.Tab.0.right" timestamp="1600686446573">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="283" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1600685658934" />
+    <state width="1458" height="283" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1600686446573" />
     <state x="493" y="122" key="refactoring.ChangeSignatureDialog" timestamp="1600650492417">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
@@ -233,7 +237,7 @@
     <SUITE FILE_PATH="coverage/CINTA$11.coverage" NAME="11 Coverage Results" MODIFIED="1599879881677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CINTA$egcd.coverage" NAME="egcd Coverage Results" MODIFIED="1600679460265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CINTA$exc2.coverage" NAME="exc2 Coverage Results" MODIFIED="1599884488632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CINTA$begcd.coverage" NAME="begcd Coverage Results" MODIFIED="1600680433445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CINTA$begcd.coverage" NAME="begcd Coverage Results" MODIFIED="1600686443938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CINTA$mutiply.coverage" NAME="mutiply Coverage Results" MODIFIED="1600611333556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

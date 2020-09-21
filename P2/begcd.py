@@ -1,4 +1,11 @@
 def begcd(u, v):
+    a = u
+    b = v
+    m = [1, 0, 0, 1]  # 用一维数组m存储r0,r1,s0,s1
+    while (a | b) & 1 == 0:
+        a >>= 1
+        b >>= 1
+
     def msub(x, y):
         if x == 0:
             return m[2], m[3]
@@ -29,12 +36,6 @@ def begcd(u, v):
             m[3] = m[3] - m[1]
 
         return msub(x, y)
-    a = u
-    b = v
-    m = [1, 0, 0, 1]
-    while (a | b) & 1 == 0:
-        a >>= 1
-        b >>= 1
 
     return msub(a, b)
 

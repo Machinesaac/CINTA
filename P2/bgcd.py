@@ -16,4 +16,5 @@ def bgcd(a, b):
 
     return b << k
 
-print(bgcd(40,8))
+
+print(bgcd(40, 8))
